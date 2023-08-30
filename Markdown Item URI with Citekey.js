@@ -9,7 +9,7 @@
   priority: 200,
   inRepository: false,
   lastUpdated: "2020-11-30",
-};
+}
 
 function doExport() {
   var item;
